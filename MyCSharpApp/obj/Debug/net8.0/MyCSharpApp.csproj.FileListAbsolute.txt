@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.exe
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.deps.json
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.runtimeconfig.json
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.dll
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\bin\Debug\net8.0\MyCSharpApp.pdb
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.AssemblyInfo.cs
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.dll
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\obj\Debug\net8.0\refint\MyCSharpApp.dll
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.pdb
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\obj\Debug\net8.0\MyCSharpApp.genruntimeconfig.cache
+C:\Users\HP\Desktop\.Net internship\MyCSharpApp\obj\Debug\net8.0\ref\MyCSharpApp.dll
